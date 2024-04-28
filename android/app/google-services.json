@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28193976233",
+    "project_id": "najlepsza-knajpa-1",
+    "storage_bucket": "najlepsza-knajpa-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28193976233:android:6302df9b3b6e2423fedeb8",
+        "android_client_info": {
+          "package_name": "com.alexpawlowski.najlepsza_knajpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQXLy_tt0yxtdhKiNVoVOSB-MsmPVpVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28193976233:android:4ac6b2f41165cec1fedeb8",
+        "android_client_info": {
+          "package_name": "com.alexpawlowski.najlepsza_knajpa2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQXLy_tt0yxtdhKiNVoVOSB-MsmPVpVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
